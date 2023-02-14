@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-  
-  cout << "CSCI 430" << endl;
+  string name = "Gurpreet";
+  cout << name << " is in CSCI 430" << endl;
   return 0;
   
 }
